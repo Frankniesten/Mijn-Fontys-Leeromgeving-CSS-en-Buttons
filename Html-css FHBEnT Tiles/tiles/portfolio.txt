@@ -1,0 +1,1 @@
+<iframe id='Portfolio_946429c3' width='100%' height='100%' src='https://elo.fontys.nl/Pages/WebParts/SharePoint.aspx?wp=MyPortfolio&view=1'></iframe><script type='text/javascript'>var fs=document.getElementById('Portfolio_946429c3');fs.style.height=fs.parentNode.parentNode.scrollHeight-4+'px';</script>

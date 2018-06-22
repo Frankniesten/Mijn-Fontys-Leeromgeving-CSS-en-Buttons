@@ -1,4 +1,4 @@
-<a href="https://connect.fontys.nl/instituten/fhbent/community/dlo/Paginas/Mijn-Onderwijs.aspx" target="blank" class="fhbent-tile-list"> 
+<a href="https://connect.fontys.nl/instituten/fhbent/community/dlo/Paginas/Mijn-Onderwijs.aspx" class="fhbent-tile-list"> 
 	<div class="fhbent-tile-list-content iconic">
 		<span class="fhbent-icon mif-school icon"></span>
 		<span class="fhbent-tile-list-label">Mijn Leeractiviteiten</span>
@@ -7,7 +7,7 @@
 </a>
 
 <!--
-<a href="https://connect.fontys.nl/instituten/fhbent/community/dlo/Paginas/Portfolio.aspx" target="blank" class="fhbent-tile-list"> 
+<a href="https://connect.fontys.nl/instituten/fhbent/community/dlo/Paginas/Portfolio.aspx"  class="fhbent-tile-list"> 
 	<div class="fhbent-tile-list-content iconic">
 		<span class="fhbent-icon mif-suitcase icon"></span>
 		<span class="fhbent-tile-list-label">Mijn Persoonlijke Dossier</span>
