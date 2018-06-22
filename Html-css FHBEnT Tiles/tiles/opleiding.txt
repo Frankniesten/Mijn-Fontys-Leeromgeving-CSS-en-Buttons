@@ -1,0 +1,57 @@
+<!--
+<a href="https://progresswww.nl/fontys" target="blank" class="fhbent-tile-list"> 
+	<div class="fhbent-tile-list-content iconic">
+		<span class="fhbent-icon mif-bookmark  icon"></span>
+		<span class="fhbent-tile-list-label">Intekenen EVL</span>
+		<span class="fhbent-tile-list-label-desc">Inschrijven op eenheden van leeruitkomsten.</span>
+	</div>
+</a>
+-->
+
+<a href="https://progresswww.nl/fontys" target="blank" class="fhbent-tile-list"> 
+	<div class="fhbent-tile-list-content iconic">
+		<span class="fhbent-icon mif-bookmark icon"></span>
+		<span class="fhbent-tile-list-label">Intekenen Toets</span>
+		<span class="fhbent-tile-list-label-desc">Inschrijven op toetsen.</span>
+	</div>
+</a>
+
+<a href="https://progresswww.nl/fontys" target="blank" class="fhbent-tile-list"> 
+	<div class="fhbent-tile-list-content iconic">
+		<span class="fhbent-icon mif-bookmarks icon"></span>
+		<span class="fhbent-tile-list-label">Intekenen leeractiviteiten</span>
+		<span class="fhbent-tile-list-label-desc">Inschrijven op te volgen leeractiviteiten.</span>
+	</div>
+</a>
+
+<a href="https://progresswww.nl/fontys" target="blank" class="fhbent-tile-list"> 
+	<div class="fhbent-tile-list-content iconic">
+		<span class="fhbent-icon mif-chart-line icon"></span>
+		<span class="fhbent-tile-list-label">Mijn Voortgang</span>
+		<span class="fhbent-tile-list-label-desc">Bekijk de voortgang van je studie.</span>
+	</div>
+</a>
+
+<a href="https://fontys.nl" target="blank" class="fhbent-tile-list"> 
+	<div class="fhbent-tile-list-content iconic">
+		<span class="fhbent-icon mif-calendar icon"></span>
+		<span class="fhbent-tile-list-label">Lesrooster</span>
+		<span class="fhbent-tile-list-label-desc">Bekijk je lesrooster.</span>
+	</div>
+</a>
+
+<a href="https://connect.fontys.nl" target="blank" class="fhbent-tile-list"> 
+	<div class="fhbent-tile-list-content iconic">
+		<span class="fhbent-icon mif-info icon"></span>
+		<span class="fhbent-tile-list-label">Opleidingsinformatie</span>
+		<span class="fhbent-tile-list-label-desc">Meer informatie over je opleiding.</span>
+	</div>
+</a>
+
+<a href="https://connect.fontys.nl" target="blank" class="fhbent-tile-list"> 
+	<div class="fhbent-tile-list-content iconic">
+		<span class="fhbent-icon mif-help icon"></span>
+		<span class="fhbent-tile-list-label">Help</span>
+		<span class="fhbent-tile-list-label-desc">Handleidingen 'Mijn Fontys Leeromgeving'.</span>
+	</div>
+</a>
