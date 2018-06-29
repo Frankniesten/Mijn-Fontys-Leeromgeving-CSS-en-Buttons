@@ -1,0 +1,92 @@
+<!-- MIJN FONTYS LEERPORTAAL TILES - V1.1 -->
+
+<div class="row">
+	<div class="col-md-12">
+		<h2>Mijn Fontys Leerportaal</h2>
+	</div>
+</div>
+<br>
+<div class="row">
+  	<div class="col-md-4">
+	  	
+	  	<!-- TILE: Inschrijven op toetsen -->
+	  	<a href="https://acceptatie.progresswww.nl/fontys" target="_blank" class="fhbent-tile-list"> 
+			<div class="fhbent-tile-list-content iconic">
+				<span class="fhbent-icon mif-clipboard icon"></span>
+				<span class="fhbent-tile-list-label">Inschrijven op toetsen</span>
+				<span class="fhbent-tile-list-label-desc"></span>
+			</div>
+		</a>
+		
+		<!-- TILE: Rooster -->
+		<a href="https://www.fontys.nl/roosters/pthe/default.htm" target="_blank" class="fhbent-tile-list"> 
+			<div class="fhbent-tile-list-content iconic">
+				<span class="fhbent-icon mif-calendar icon"></span>
+				<span class="fhbent-tile-list-label">Rooster</span>
+				<span class="fhbent-tile-list-label-desc"></span>
+			</div>
+		</a> 
+		
+		<!-- TILE: Mijn resultaten -->
+		<a href="https://acceptatie.progresswww.nl/fontys" target="_blank" class="fhbent-tile-list"> 
+			<div class="fhbent-tile-list-content iconic">
+				<span class="fhbent-icon mif-chart-line icon"></span>
+				<span class="fhbent-tile-list-label">Mijn resultaten</span>
+				<span class="fhbent-tile-list-label-desc"></span>
+			</div>
+		</a>	
+  	</div>
+  	
+  	<div class="col-md-4">
+  		
+  		<!-- TILE: Leeractiviteiten -->
+	  	<a href="https://connect.fontys.nl/instituten/fhbent/Paginas/leeractiviteiten.aspx" target="_parent" class="fhbent-tile-list"> 
+		  	<div class="fhbent-tile-list-content iconic">
+				<span class="fhbent-icon mif-school icon"></span>
+				<span class="fhbent-tile-list-label">Leeractiviteiten</span>
+				<span class="fhbent-tile-list-label-desc"></span>
+			</div>
+		</a>
+		
+		<!-- TILE: Mijn portfolio -->
+		<a href="https://connect.fontys.nl/instituten/fhbent/Paginas/portfolio.aspx" target="_parent" class="fhbent-tile-list"> 
+			<div class="fhbent-tile-list-content iconic">
+				<span class="fhbent-icon mif-suitcase icon"></span>
+				<span class="fhbent-tile-list-label">Mijn portfolio</span>
+				<span class="fhbent-tile-list-label-desc"></span>
+			</div>
+		</a>
+		
+		<!-- TILE: Inleveren opdrachten -->
+		<a href="https://fontys-gradework.xebic.com/" target="_blank" class="fhbent-tile-list"> 
+			<div class="fhbent-tile-list-content iconic">
+				<span class="fhbent-icon mif-paper-plane icon"></span>
+				<span class="fhbent-tile-list-label">Inleveren opdrachten</span>
+				<span class="fhbent-tile-list-label-desc"></span>
+			</div>
+		</a>
+		
+  	</div>
+  	
+  	<div class="col-md-4">
+
+		<!-- TILE: Opleidingsinformatie -->
+		<a href="https://connect.fontys.nl/instituten/fhbent/opleidingsinformatie/pth/Paginas/default.aspx" target="_parent" class="fhbent-tile-list"> 
+			<div class="fhbent-tile-list-content iconic">
+				<span class="fhbent-icon mif-info icon"></span>
+				<span class="fhbent-tile-list-label">Opleidingsinformatie</span>
+				<span class="fhbent-tile-list-label-desc"></span>
+			</div>
+		</a> 
+		
+		<!-- TILE: Vragen over Mijn Fontys Leerportaal -->
+		<a href="https://connect.fontys.nl/instituten/fhbent/service-desk/Paginas/default.aspx" target="_blank" class="fhbent-tile-list"> 
+			<div class="fhbent-tile-list-content iconic">
+				<span class="fhbent-icon mif-help icon"></span>
+				<span class="fhbent-tile-list-label">Vragen over Mijn Fontys Leerportaal</span>
+				<span class="fhbent-tile-list-label-desc"></span>
+			</div>
+		</a>
+	  	</div> 
+  	</div>
+</div>
