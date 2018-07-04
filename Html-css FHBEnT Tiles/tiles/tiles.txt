@@ -9,11 +9,11 @@
 <div class="row">
   	<div class="col-md-4">
 	  	
-	  	<!-- TILE: Inschrijven op toetsen -->
+	  	<!-- TILE:  Intekenen op toetsen -->
 	  	<a href="https://acceptatie.progresswww.nl/fontys" target="_blank" class="fhbent-tile-list"> 
 			<div class="fhbent-tile-list-content iconic">
 				<span class="fhbent-icon mif-clipboard icon"></span>
-				<span class="fhbent-tile-list-label">Inschrijven op toetsen</span>
+				<span class="fhbent-tile-list-label">Intekenen op toetsen</span>
 				<span class="fhbent-tile-list-label-desc"></span>
 			</div>
 		</a>
