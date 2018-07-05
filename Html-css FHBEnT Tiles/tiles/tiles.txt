@@ -57,11 +57,11 @@
 			</div>
 		</a>
 		
-		<!-- TILE: Inleveren opdrachten -->
+		<!-- TILE: Inleveren ter beoordeling -->
 		<a href="https://fontys-gradework.xebic.com/" target="_blank" class="fhbent-tile-list"> 
 			<div class="fhbent-tile-list-content iconic">
 				<span class="fhbent-icon mif-paper-plane icon"></span>
-				<span class="fhbent-tile-list-label">Inleveren opdrachten</span>
+				<span class="fhbent-tile-list-label">Inleveren ter beoordeling</span>
 				<span class="fhbent-tile-list-label-desc"></span>
 			</div>
 		</a>
