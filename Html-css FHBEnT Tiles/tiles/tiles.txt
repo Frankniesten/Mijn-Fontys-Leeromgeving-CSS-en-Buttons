@@ -5,7 +5,9 @@
 		<h2>Mijn Fontys Leerportaal</h2>
 	</div>
 </div>
+
 <br>
+
 <div class="row">
   	<div class="col-md-4">
 	  	
@@ -80,7 +82,7 @@
 		</a> 
 		
 		<!-- TILE: Vragen over Mijn Fontys Leerportaal -->
-		<a href="https://connect.fontys.nl/instituten/fhbent/service-desk/Paginas/default.aspx" target="_blank" class="fhbent-tile-list"> 
+		<a href="https://connect.fontys.nl/fontysbreed/FlexibiliseringDeeltijdonderwijs/helpmfl/" target="_blank" class="fhbent-tile-list"> 
 			<div class="fhbent-tile-list-content iconic">
 				<span class="fhbent-icon mif-help icon"></span>
 				<span class="fhbent-tile-list-label">Vragen over Mijn Fontys Leerportaal</span>
@@ -89,4 +91,4 @@
 		</a>
 	  	</div> 
   	</div>
-</div>
+</div></div>
