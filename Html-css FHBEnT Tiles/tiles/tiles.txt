@@ -89,6 +89,5 @@
 				<span class="fhbent-tile-list-label-desc"></span>
 			</div>
 		</a>
-	  	</div> 
   	</div>
-</div></div>
+</div>
