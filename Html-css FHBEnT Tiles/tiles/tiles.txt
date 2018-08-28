@@ -12,7 +12,7 @@
   	<div class="col-md-4">
 	  	
 	  	<!-- TILE:  Intekenen op toetsen -->
-	  	<a href="https://acceptatie.progresswww.nl/fontys" target="_blank" class="fhbent-tile-list"> 
+	  	<a href="https://progresswww.nl/fontys" target="_blank" class="fhbent-tile-list"> 
 			<div class="fhbent-tile-list-content iconic">
 				<span class="fhbent-icon mif-clipboard icon"></span>
 				<span class="fhbent-tile-list-label">Intekenen op toetsen</span>
@@ -30,7 +30,7 @@
 		</a> 
 		
 		<!-- TILE: Mijn resultaten -->
-		<a href="https://acceptatie.progresswww.nl/fontys" target="_blank" class="fhbent-tile-list"> 
+		<a href="https://progresswww.nl/fontys" target="_blank" class="fhbent-tile-list"> 
 			<div class="fhbent-tile-list-content iconic">
 				<span class="fhbent-icon mif-chart-line icon"></span>
 				<span class="fhbent-tile-list-label">Mijn resultaten</span>
