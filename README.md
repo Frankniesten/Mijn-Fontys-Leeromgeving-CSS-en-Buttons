@@ -73,4 +73,10 @@ De knop ‘mijn portfolio’ op de hoofdnavigatie pagina moet doorlinken naar ee
 ##Doorlinken Hoofdnavigatie
 Pas de betreffende URL’s van de hoofdpagina navigatie aan zodat deze doorlinken naar de betreffende subpagina’s die eerder aangemaakt zijn of naar de betreffende toepassingen.
 
+<<<<<<< HEAD
+=======
+##Requirements
+- Code editor bijvoorbeeld NotePad++
+- Toegang tot SharePoint via webdav
+>>>>>>> 50cf9a97011e19e7e151ebaa70e28e5ecf7a14fd
 
