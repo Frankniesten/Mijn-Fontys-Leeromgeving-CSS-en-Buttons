@@ -1,5 +1,7 @@
 <!-- MIJN FONTYS LEERPORTAAL TILES - V1.1 -->
 
+<! -- Titel -->
+
 <div class="row">
 	<div class="col-md-12">
 		<h2>Mijn Fontys Leerportaal</h2>
@@ -8,86 +10,104 @@
 
 <br>
 
+<!-- BURCHT TILES -->
+
 <div class="row">
   	<div class="col-md-4">
 	  	
-	  	<!-- TILE:  Intekenen op toetsen -->
-	  	<a href="https://progresswww.nl/fontys" target="_blank" class="fhbent-tile-list"> 
-			<div class="fhbent-tile-list-content iconic">
-				<span class="fhbent-icon mif-clipboard icon"></span>
-				<span class="fhbent-tile-list-label">Intekenen op toetsen</span>
-				<span class="fhbent-tile-list-label-desc"></span>
-			</div>
+	  	<!-- Intekenen op leeractiviteiten -->
+		<a href="https://progresswww.nl/fontys" title="Intekeken op leeractiviteiten in ProgressWWW." target="_blank" class="mfl-tile mfl-purple"> 
+	    	<span class="icon mif-clipboard"></span> 
+			<span class="tile-label">Intekenen op leeractiviteiten</span>
 		</a>
 		
-		<!-- TILE: Rooster -->
-		<a href="https://www.fontys.nl/roosters/pthe/default.htm" target="_blank" class="fhbent-tile-list"> 
-			<div class="fhbent-tile-list-content iconic">
-				<span class="fhbent-icon mif-calendar icon"></span>
-				<span class="fhbent-tile-list-label">Rooster</span>
-				<span class="fhbent-tile-list-label-desc"></span>
-			</div>
-		</a> 
+		<!-- Intekenen op toetsen -->
+		<a href="https://progresswww.nl/fontys" title="Intekeken op toetsen in ProgressWWW." target="_blank" class="mfl-tile mfl-purple"> 
+		    <span class="icon mif-checkmark"></span> 
+			<span class="tile-label">Intekenen op toetsen</span>
+		</a>
 		
-		<!-- TILE: Mijn resultaten -->
-		<a href="https://progresswww.nl/fontys" target="_blank" class="fhbent-tile-list"> 
-			<div class="fhbent-tile-list-content iconic">
-				<span class="fhbent-icon mif-chart-line icon"></span>
-				<span class="fhbent-tile-list-label">Mijn resultaten</span>
-				<span class="fhbent-tile-list-label-desc"></span>
-			</div>
-		</a>	
+		<!-- Rooster -->
+		<a href="https://www.fontys.nl/roosters/pthe/default.htm" title="Inzien van het lesrooster." target="_blank"  class="mfl-tile mfl-purple"> 
+		    <span class="icon mif-calendar"></span> 
+			<span class="tile-label">Rooster</span>
+		</a>
+		
+		<!-- Leeractiviteiten -->
+		<a href="https://connect.fontys.nl/fontysbreed/FlexibiliseringDeeltijdonderwijs/helpmfl/mfl-demo/Paginas/Leeractiviteiten.aspx" title="Leermaterialen behorend bij je leeractiviteiten in N@tschool" class="mfl-tile mfl-purple"> 
+		    <span class="icon mif-school"></span> 
+			<span class="tile-label">Leeractiviteiten</span>
+		</a>
+		
+		<!-- Inleveren ter beoordeling -->
+		<a href="https://fontys-gradework.xebic.com/" title="Inleveren van gemaakt werk in GradeWork." target="_blank"  class="mfl-tile mfl-purple"> 
+		    <span class="icon mif-paper-plane"></span> 
+			<span class="tile-label">Inleveren ter beoordeling</span>
+		</a>
+		
+		<!-- Mijn resultaten -->
+		<a href="https://progresswww.nl/fontys" title="Inzien van je behaalde resultaten." target="_blank"  class="mfl-tile mfl-purple"> 
+		    <span class="icon mif-chart-line"></span> 
+			<span class="tile-label">Mijn resultaten</span>
+		</a>
   	</div>
-  	
-  	<div class="col-md-4">
-  		
-  		<!-- TILE: Leeractiviteiten -->
-	  	<a href="https://connect.fontys.nl/instituten/fhbent/Paginas/leeractiviteiten.aspx" target="_parent" class="fhbent-tile-list"> 
-		  	<div class="fhbent-tile-list-content iconic">
-				<span class="fhbent-icon mif-school icon"></span>
-				<span class="fhbent-tile-list-label">Leeractiviteiten</span>
-				<span class="fhbent-tile-list-label-desc"></span>
-			</div>
-		</a>
-		
-		<!-- TILE: Mijn portfolio -->
-		<a href="https://connect.fontys.nl/instituten/fhbent/Paginas/portfolio.aspx" target="_parent" class="fhbent-tile-list"> 
-			<div class="fhbent-tile-list-content iconic">
-				<span class="fhbent-icon mif-suitcase icon"></span>
-				<span class="fhbent-tile-list-label">Mijn portfolio</span>
-				<span class="fhbent-tile-list-label-desc"></span>
-			</div>
-		</a>
-		
-		<!-- TILE: Inleveren ter beoordeling -->
-		<a href="https://fontys-gradework.xebic.com/" target="_blank" class="fhbent-tile-list"> 
-			<div class="fhbent-tile-list-content iconic">
-				<span class="fhbent-icon mif-paper-plane icon"></span>
-				<span class="fhbent-tile-list-label">Inleveren ter beoordeling</span>
-				<span class="fhbent-tile-list-label-desc"></span>
-			</div>
-		</a>
-		
-  	</div>
-  	
-  	<div class="col-md-4">
+ 
+<!-- STAD & LANDSCHAP TILES -->
 
-		<!-- TILE: Opleidingsinformatie -->
-		<a href="https://connect.fontys.nl/instituten/fhbent/opleidingsinformatie/pth/Paginas/default.aspx" target="_parent" class="fhbent-tile-list"> 
-			<div class="fhbent-tile-list-content iconic">
-				<span class="fhbent-icon mif-info icon"></span>
-				<span class="fhbent-tile-list-label">Opleidingsinformatie</span>
-				<span class="fhbent-tile-list-label-desc"></span>
-			</div>
-		</a> 
-		
-		<!-- TILE: Vragen over Mijn Fontys Leerportaal -->
-		<a href="https://connect.fontys.nl/fontysbreed/FlexibiliseringDeeltijdonderwijs/helpmfl/" target="_blank" class="fhbent-tile-list"> 
-			<div class="fhbent-tile-list-content iconic">
-				<span class="fhbent-icon mif-help icon"></span>
-				<span class="fhbent-tile-list-label">Vragen over Mijn Fontys Leerportaal</span>
-				<span class="fhbent-tile-list-label-desc"></span>
-			</div>
+  	<div class="col-md-5">
+  		
+  		<!-- Mediasite -->
+		<a href="https://fontys.mediamission.nl/Mediasite/mymediasite" title="Applicatie voor het opslaan en distrubueren van eigen videomateriaal." target="_blank" class="mfl-tile mfl-blue"> 
+		    <span class="icon mif-film"></span> 
+			<span class="tile-label">Mediasite</span>
 		</a>
+		
+		<!-- OneDrive -->
+		<a href="https://stichtingfontys-my.sharepoint.com/_layouts/15/MySite.aspx?MySiteRedirect=AllDocuments&Source=SP" title="Applicatie voor het opslaan en delen van bestanden." target="_blank" class="mfl-tile mfl-blue"> 
+		    <span class="icon mif-onedrive"></span> 
+			<span class="tile-label">OneDrive</span>
+		</a>
+		
+		<!-- Outlook -->
+		<a href="https://mail.fontys.nl/" target="_blank" title="Fontys email en agenda." class="mfl-tile mfl-blue"> 
+		    <span class="icon mif-mail"></span> 
+			<span class="tile-label">Outlook</span>
+		</a>
+		
+		<!-- Printen -->
+		<a href="https://fontys.mycampusprint.nl/" title="Fontys printportaal" target="_blank" class="mfl-tile mfl-blue"> 
+		    <span class="icon mif-printer"></span> 
+			<span class="tile-label">Printen</span>
+		</a>
+		
+		<!-- ProjectCampus -->
+		<a href="https://www.projectcamp.us" title="Applicatie om samen te werken in onderwijsprojecten." target="_blank" class="mfl-tile mfl-blue"> 
+	    	<span class="icon mif-rocket"></span> 
+			<span class="tile-label">ProjectCampus</span>
+		</a>
+		
+		<!-- SURF Filesender -->
+		<a href="https://filesender.surf.nl/index.php" title="Veilig versturen van grote bestanden." target="_blank" class="mfl-tile mfl-blue"> 
+		    <span class="icon mif-cloud-upload"></span> 
+			<span class="tile-label">SURF Filesender</span>
+		</a>
+  	</div>
+  	
+  	
+<!-- REMAINING TILES -->
+
+  	<div class="col-md-3">
+	  	
+	  	<!-- Opleidingsinformatie -->
+		<a href="#" title="Algemene informatie over de opleiding en instituut." class="mfl-tile mfl-grey"> 
+		    <span class="icon mif-info"></span> 
+			<span class="tile-label">Opleidings- informatie</span>
+		</a>
+		
+		<!-- Support -->
+		<a href="https://connect.fontys.nl/fontysbreed/FlexibiliseringDeeltijdonderwijs/helpmfl/Paginas/default.aspx" title="Support portaal van de Mijn Fontys Leeromgeving." class="mfl-tile mfl-grey" target="_blank"> 
+		    <span class="icon mif-help"></span> 
+			<span class="tile-label">Support</span>
+		</a>		
   	</div>
 </div>

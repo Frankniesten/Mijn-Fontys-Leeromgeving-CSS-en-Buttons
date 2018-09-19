@@ -1,0 +1,12 @@
+<!-- Square Tile -->
+<a href="#" title="Tooltip" target="_blank"  class="mfl-tile mfl-purple"> 
+    <span class="icon mif-info"></span> 
+	<span class="tile-label">Square Tile</span>
+</a>
+		
+<!-- Rectangle Tile -->
+<a href="#" title="Tooltip" target="_parent" class="mfl-tile-list mfl-purple"> 
+	<span class="icon mif-info"></span>
+	<span class="tile-list-label">Rectangle Tile</span>
+	<span class="tile-list-desc">Subtitel</span>
+</a>

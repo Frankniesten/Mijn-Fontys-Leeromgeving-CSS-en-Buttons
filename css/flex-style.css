@@ -1,18 +1,35 @@
-/* CSS - FHBEnT TEGELS */
+/* CSS - Mijn Fontys Leeromgeving - Tiles */
 
+/* Fontys - Colors */
+.mfl-purple {
 
-/* Tile */
-.fhbent-tile {
-  width: 96px;
-  height: 96px;
+	background-color: #663366;
+}
+
+.mfl-magenta {
+	background-color: #e5007d;
+}
+
+.mfl-blue {
+	background-color: #0076e0;
+}
+
+.mfl-grey {
+	background-color: #8b8b8b;
+}
+
+/* SQUARE TILE */
+
+.mfl-tile {
+  width: 94px;
+  height: 94px;
   color: white;
   display: block;
   float: left;
   margin-left: 0px;
-  margin-right:4px;
+  margin-right:3px;
   margin-top: 0px;
-  margin-bottom:4px;
-  background-color: #636;
+  margin-bottom:3px;
   cursor: pointer;
   position: relative;
   overflow: hidden;
@@ -22,53 +39,47 @@
           user-select: none;
 }
 
-.fhbent-tile:hover {
+.mfl-tile:hover {
   outline: #c7c7c7 solid 0px !important;
   color: white !important;
   background: #c7c7c7 !important;
 }
 
-.fhbent-tile-content:hover {
-  outline: #c7c7c7 solid 0px !important;
-  color: white !important;
-  background: #c7c7c7 !important;
-}
-
-.fhbent-tile-content.iconic .icon {
+.mfl-tile .icon {
   position: absolute;
   color: white;
   width: 64px;
   height: 64px;
-  font-size: 45px;
+  font-size: 36px;
   top: 50%;
-  margin-top: -26px;
+  margin-top: -25px;
   left: 50%;
   margin-left: -32px;
   text-align: center;
 }
 
-.fhbent-tile .fhbent-tile-label {
+.mfl-tile .tile-label {
   position: absolute;
   color: white;
   bottom: 0;
-  left: .100rem;
-  padding: .425rem .25rem;
+  left: 2px;
+  padding: 3px;
   z-index: 999;
-  font-size: 09px;
+  font-size: 10px;
 }
 
-/* Button - Tile List */
-.fhbent-tile-list {
-  width: 300px;
-  height: 46px;
+/* RECTANGLE TILE */
+
+.mfl-tile-list {
+  width: 288px;
+  height: 47px;
   color: white;
   display: block;
   float: left;
   margin-left: 0px;
-  margin-right:4px;
+  margin-right:3px;
   margin-top: 0px;
-  margin-bottom:4px;
-  background-color: #636;
+  margin-bottom:3px;
   cursor: pointer;
   position: relative;
   overflow: hidden;
@@ -78,23 +89,19 @@
           user-select: none;
 }
 
-.fhbent-tile-list:hover {
+.mfl-tile-list:hover {
   outline: #c7c7c7 solid 0px !important;
   background: #c7c7c7 !important;
   color: white !important;
 }
 
-.fhbent-tile-list-content:hover {
-  outline: #c7c7c7 solid 0px !important;
-  background: #999999 !important;
-  color: white !important;
-}
 
-.fhbent-tile-list-content.iconic .icon {
+
+.mfl-tile-list .icon {
   position: absolute;
   color: white;
-  width: 46px;
-  height: 46px;
+  width: 47px;
+  height: 32px;
   font-size: 32px;
   top: 0px;
   margin-top: 0px;
@@ -104,98 +111,31 @@
   text-align: center;
 }
 
-.fhbent-tile-list .fhbent-tile-list-label {
+.mfl-tile-list .tile-list-label {
   position: absolute;
   width: 210;
-  margin-top: 2px;
-  margin-left: 60px;
+  margin-top: 6px;
+  margin-left: 50px;
   color: white;
   Z-index: 999;
   font-size: 12px;
 }
-.fhbent-tile-list .fhbent-tile-list-label-desc {
+.mfl-tile-list .tile-list-desc {
   position: absolute;
   width: 210;
-  padding: .425rem .25rem;
-  margin-top: 15px;
-  margin-left: 58px;
+  margin-top: 24px;
+  margin-left: 50px;
   color: white;
-  Z-index: 999;
-  font-size: 9px;
-}
-
-/* Button - Subnavigation */
-.fhbent-tile-sub {
-  width: 300px;
-  height: 46px;
-  color: white;
-  display: block;
-  float: left;
-  margin-left: 0px;
-  margin-right:0px;
-  margin-top: 0px;
-  margin-bottom:4px;
-  background-color: #c7c7c7;
-  cursor: pointer;
-  position: relative;
-  overflow: hidden;
-  -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
-}
-
-.fhbent-tile-sub:hover {
-  outline: #c7c7c7 solid 0px !important;
-  background: #999999 !important;
-  color: white !important;
-}
-
-.fhbent-tile-sub-content:hover {
-  outline: #c7c7c7 solid 0px !important;
-  background: #999999 !important;
-  color: white !important;
-}
-
-.fhbent-tile-sub-content.iconic .icon {
-  position: absolute;
-  color: white;
-  width: 46px;
-  height: 46px;
-  background-color: #636;
-  font-size: 32px;
-  top: 0px;
-  margin-top: 0px;
-  left: 0px;
-  margin-left: 0px;
-  padding-top: 6px;
-  text-align: center;
-}
-
-.fhbent-tile-sub .fhbent-tile-sub-label {
-  position: absolute;
-  width: 220;
-  margin-top: 2px;
-  margin-left: 60px;
-  color: #454545;
-  Z-index: 999;
-  font-size: 12px;
-}
-.fhbent-tile-sub .fhbent-tile-sub-label-desc {
-  position: absolute;
-  width: 220;
-  margin-top: 16px;
-  margin-left: 58px;
-  color: #6f6f6f;
   Z-index: 999;
   font-size: 10px;
 }
 
 
+/* ICON FONT */
 
 @font-face {
   font-family: 'metro';
-  src: url('./font/metro.eot?#iefixizvoei') format('embedded-opentype'), url('./font/metro.woff?izvoei') format('woff'), url('./font/metro.ttf?izvoei') format('truetype'), url('./font/metro.svg?izvoei#metro') format('svg');
+  src: url('../font/metro.eot?#iefixizvoei') format('embedded-opentype'), url('../font/metro.woff?izvoei') format('woff'), url('../font/metro.ttf?izvoei') format('truetype'), url('../font/metro.svg?izvoei#metro') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -219,7 +159,7 @@
 }
 
 
-/* Metro Icons */
+/* METRO ICONS */
 
 .mif-unlink:before {
   content: "\f127";
